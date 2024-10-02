@@ -47,8 +47,9 @@ In this assignment, we extended the k-layer neural network to classify images fr
 ---
 
 ### Assignment 4: Recurrent Neural Network (RNN)
-In this assignment, a vanilla Recurrent Neural Network (RNN) was trained to synthesize English text character by character using The Goblet of Fire by J.K. Rowling. Key tasks included preparing the data by mapping characters to indices, implementing backpropagation for gradient computation, and optimizing the RNN using AdaGrad. The final task involved synthesizing text using the trained RNN, given an initial hidden state and input character.
 [Assignment 4 Code](Assignment4)
+
+In this assignment, a vanilla Recurrent Neural Network (RNN) was trained to synthesize English text character by character using The Goblet of Fire by J.K. Rowling. Key tasks included preparing the data by mapping characters to indices, implementing backpropagation for gradient computation, and optimizing the RNN using AdaGrad. The final task involved synthesizing text using the trained RNN, given an initial hidden state and input character.
 
 #### Key Learning Objectives:
 1. **Recurrent Neural Networks (RNNs)**: Implemented an RNN model to learn from sequential data (text data), capturing temporal dependencies.
